@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi，我是钟磊 (Asher) 👋
 
-<!--
-**AsherLay/AsherLay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**17 年产品负责人 ｜ 双边平台从 0 到 1 ｜ AI × 物流 / 交易**
 
-Here are some ideas to get you started:
+饿了么·蜂鸟 → 满帮 → 只二 → 竹芒 → 宝奇，横跨四个双边平台，把产品从 0 做到规模化。
+擅长用 AI 赋能实体行业 —— **物流只是我打过的仗，不是我的身份**。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 在做的方向
+- 🚚 **运力交易 AI 操作系统** —— 六层框架 × 横向迁移，AI 落地双边平台的通用方法论
+- 📦 **结算合规 AI 审计** —— 单据提取 + 四流合一核验 + 异常路由，交易流里的 AI
+- 🔧 用 AI 把个人工作流产品化（每日资讯雷达 / 跨行业简报引擎 / 待办系统）
+
+### 联系
+📮 asherlay32@hotmail.com ｜ 💬 微信：asherlay
+
+> 求仁而得仁，又何怨。
